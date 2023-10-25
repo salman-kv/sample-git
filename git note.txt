@@ -1,0 +1,117 @@
+GIT 
+
+Collabration : multiiple youser can connect in a single source 
+
+Backup :  push everything
+
+Multiple features : we get all code and changes and everything
+
+Status tracking : 
+
+
+
+
+version controlling system 
+cvcs => centralized   
+dvcs => Distributed 
+
+
+
+GIT commands
+
+git config --global user.name "name"
+git config --global user.email ss@gmail.com
+
+
+new git : git init for new
+	    git clone ulla project ne edkan
+ls : for list the files in that directory
+cd  : change directry
+ 			use tab for suggetion
+
+ls -a : or showing the git file not visible
+
+
+tree :
+     brew install tree   
+
+touch : command use to create a html file --> touch new.html
+
+
+
+
+Status :
+	git status
+
+
+version creating :
+	git add name or . for all or use --all
+	git commit -m "what is this"
+
+after this we got a id and their is a head and master
+
+	git log for showing the added
+	git checkout  for cahnging the path
+	git --log all shwing all after change the id 
+
+
+
+
+
+
+Branching
+	
+	git branch name for new branch
+	master is a branch it is default
+	git branch for showing the branches
+	
+
+
+
+Merging braches
+	
+	git merge branchname  it is fast forword merge
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
